@@ -16,7 +16,7 @@ This script handles:
 - Cron-based automation
 
 📦 GitHub Repository:  
-👉 https://github.com/shuvo-halder/ssl-certbot
+👉 https://github.com/shuvo-halder/certbot-auto-renew
 
 ---
 
